@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\SEMESTER 5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.exe
+C:\Users\ASUS\Documents\SEMESTER 5\KTI\MyWebApp\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\ASUS\Documents\SEMESTER 5\KTI\MyWebApp\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\ASUS\Documents\SEMESTER 5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.dll
+C:\Users\ASUS\Documents\SEMESTER 5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.deps.json
+C:\Users\ASUS\Documents\SEMESTER 5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.runtimeconfig.json
+C:\Users\ASUS\Documents\SEMESTER 5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.pdb
